@@ -43,4 +43,4 @@ app.*.map.json
 /android/app/release
 
 #Folders
-/web*
+/flutter_application_1/web*
