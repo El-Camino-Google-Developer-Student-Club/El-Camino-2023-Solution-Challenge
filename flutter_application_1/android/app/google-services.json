@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665876378471",
+    "project_id": "solutionchallenge-bd059",
+    "storage_bucket": "solutionchallenge-bd059.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665876378471:android:59a0b64399c63674f5f5c2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqjXKoi2qroofhSb2BW3AbQ7w27Sum07Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
