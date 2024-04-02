@@ -12,4 +12,4 @@ Step 8 - When finished close the application by clicking on the x-button.
 
 
 # Image of WebApplication:
-![Hello](/assets/ImageofWebApplication.png)
+![Image of the web application and what it looks like](/assets/ImageofWebApplication.png)
