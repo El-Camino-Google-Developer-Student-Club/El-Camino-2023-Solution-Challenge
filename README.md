@@ -19,5 +19,5 @@ Step 7 - Once done the program will post some schools on the map on the right ha
 Step 8 - When finished close the application by clicking on the x-button.
 
 
-# Image of WebApplication:
+# Image of Web Application:
 ![Image of the web application and what it looks like](/assets/ImageofWebApplication.png)
