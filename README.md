@@ -9,3 +9,7 @@ step 5 - once the program has started, you can select which institution you are 
 step 6 - Then select the course you are trying to complete.
 step 7 - Once done the program will post some schools on the map on the right hand side that offer the class equivalance. Results will also display on the left hand side of courses that are acceptable.
 Step 8 - When finished close the application by clicking on the x-button.
+
+
+# Image of WebApplication:
+![](/assets/images/ImageofWebApplication.png)
